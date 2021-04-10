@@ -75,3 +75,7 @@ where each file will need the following variables set
   - POSTGRES_DB
   - POSTGRES_USER
   - POSTGRES_PASSWORD
+
+## Last Steps
+After cloning the repo, you can leave the name as is (drf-starter-docker-postgres) and just incorporate it as the "server" folder in your frontend and backend stack or you can do a find and replace on drf-starter-docker-postgres to whatever you want to call your project.
+As I mentioned, I will eventually fork the django-cookiecutter project which will make this more modular but for now this is going to have to suffice.
